@@ -1,12 +1,6 @@
 
 /**
-  *[ Game ]
-  *COMP1020 SECTION[A02]
-  *INSTRUCTOR:[ Olivier Tremblay-Savard ]
-  *NAME:[ Abdullah Al Noman]
-  *ASSIGNMENT:[Assignment 2]
-  *QUESTION:[ All 4 phases were completed]
-  **PURPOSE:[ this class  has two or more players that take turns attacking the other player’s ship ]
+  **PURPOSE:[ this class  has two or more players that take turns attacking the other playerâ€™s ship ]
   */
 import java.util.Scanner;
 public class Game {
