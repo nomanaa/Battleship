@@ -1,10 +1,4 @@
 /**
-  *[ Gameboard ]
-  *COMP1020 SECTION[A02]
-  *INSTRUCTOR:[ Olivier Tremblay-Savard ]
-  *NAME:[ Abdullah Al Noman]
-  *ASSIGNMENT:[Assignment 2]
-  *QUESTION:[ All 4 phases were completed]
   **PURPOSE:[ This class is a two-dimensional array of Tile objects, creating a game board for a single player]
   */
 public class Gameboard {
